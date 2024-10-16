@@ -8,7 +8,7 @@
 - linguagens de programação: python
 - Github para guardar o código
 - conhecimento matemático 
-# Menbros do grupo
+# Membros do grupo
 - joão carlos
 - fabio
 - mariana
