@@ -8,12 +8,6 @@
 - linguagens de programação: python
 - Github para guardar o código
 - conhecimento matemático 
-# Membros do grupo
-- joão carlos
-- fabio
-- mariana
-- ludmila
-- matheus caina
 # Exemplo de uso
 - Exibe um menu para o usuário escolher entre calcular a hipotenusa ou os valores das funções trigonométricas.
 - Se o usuário escolher a opção 1, o programa solicita os comprimentos dos catetos e calcula a hipotenusa, exibindo o resultado formatado com duas casas decimais.
